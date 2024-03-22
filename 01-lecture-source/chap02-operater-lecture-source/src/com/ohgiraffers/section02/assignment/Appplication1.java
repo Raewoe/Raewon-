@@ -41,7 +41,7 @@ public class Appplication1 {
         * 산술 복합 대입 연산자의 작성 순서에 주의해야한다.
         * */
 
-        num =- 5;          //작성 순서 조심해야합니다.
+        num =- 5;          //num = -5; 적용 => 작성 순서 조심해야합니다.
         System.out.println("num : " + num);
 
     }

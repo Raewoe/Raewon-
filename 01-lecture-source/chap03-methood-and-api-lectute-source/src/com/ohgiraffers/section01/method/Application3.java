@@ -51,7 +51,6 @@ public class Application3 {
         /* 2-4. 연산결과를 이용하여 값을 전달할 수 있다. */
         app3.testMethod(age + 3);
 
-
     }
 
     public void testMethod(int age) {

@@ -48,6 +48,14 @@ public class Application1 {
         boolean istrue = sc1.nextBoolean();
         System.out.println("입력하신 논리값은 " + istrue + "입니다.");
 
+        /* 2-5. 문자형 값 입력받기 */
+        /* charAt(int index)를 사용한다. */
+
+        sc1.nextLine();
+        System.out.print("아무 문자나 입력해주세요 : ");
+        char ch = sc1.nextLine().charAt(0);
+        System.out.println("입력하신 문자는 " + ch +"입니다.");
+
 
 
 

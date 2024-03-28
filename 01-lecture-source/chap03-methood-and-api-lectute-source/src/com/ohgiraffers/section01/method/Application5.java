@@ -4,7 +4,7 @@ public class Application5 {
 
     public static void main(String[] args) {
 
-        /* 수업목표. 메소드 리천에 대해 이해할 수 있다. */
+        /* 수업목표. 메소드 리턴에 대해 이해할 수 있다. */
         /* return이란?
         * 모든 메소드 내부에는 리턴이 존재한다.
         * void 메소드의 경우는 리턴을 명시하지 않아도 마지막줄에 컴파일러가 자동으로 추가를 해준다.

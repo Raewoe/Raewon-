@@ -5,30 +5,23 @@ public class Application {
     public static void main(String[] args) {
 
 
-        //대입 연산자
+     int age = 14;
 
-        int a = 5;
-        a+= 3;
-        a-=2;
-        a *=4;
-        a /=3;
-        a %= 5;
+     if (age <= 7) {
+         System.out.println("미취학");
 
-        System.out.println(a);
+     }else if (age <=13){
+         System.out.println("초등학생");
+     } else if (age <=16) {
+         System.out.println("중학생");
 
+     } else if (age <= 19) {
+         System.out.println("고등학생");
 
-
-
-
-
-
-
-
-
-
-
-
-
+     } else {
+         System.out.println("성인");
+     }
+     
 
 
     }

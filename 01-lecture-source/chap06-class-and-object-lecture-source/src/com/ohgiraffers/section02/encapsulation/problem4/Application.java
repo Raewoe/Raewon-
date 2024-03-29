@@ -5,7 +5,7 @@ public class Application {
 
         /* 접근제한에 대해 이해하고 필드에 접근하지 못하게 */
 
-        /* 1. private에 필드에 직접 접근하여 comli*/
+        /* 1. private에 필드에 직접 접근하여 compiler*/
         Monster monster1 = new Monster();
         //monster1.kinds =  "피카츄";      //에러발생
         //.hp = 200;                      //에러발생

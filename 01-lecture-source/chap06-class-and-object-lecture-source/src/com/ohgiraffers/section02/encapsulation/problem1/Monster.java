@@ -1,7 +1,6 @@
 package com.ohgiraffers.section02.encapsulation.problem1;
 
 public class Monster {
-
     /* 1. 필드로 몬스터 이름과 체력을 저장할 공간을 선언 */
     // String name;
     // int hp;
@@ -39,19 +38,4 @@ public class Monster {
 
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

@@ -9,6 +9,7 @@ public class MemberDTO {
     private double height;           //키
     private boolean isActivated;     // 회원탈퇴여부(활성화 여부)
 
+
     /*
      *  설정자(setter)/접근자(getter)의 경우 실무에서 암묵적으로 통용되는 작성 규칙이 존재한다.
      *  설정자(setter) 작성 규칙

@@ -6,7 +6,7 @@ public class Application {
 
         /* 필드에 직접 접근하는 경우 발생할 수 있는 문제점을 이해할 수 있다. */
 
-      /*  Monster monster1 = new Monster();
+        /*Monster monster1 = new Monster();
         monster1.name = "꼬부기";
         monster1.hp = 100;
 
@@ -27,10 +27,9 @@ public class Application {
         System.out.println("monster2= " + monster2.name);
         System.out.println("monster2 = " + monster2.hp);
         System.out.println("monster3 = " + monster3.name);
-        System.out.println("monster3 = " + monster3.hp);
+        System.out.println("monster3 = " + monster3.hp);*/
 
 
-        */
 
     }
 

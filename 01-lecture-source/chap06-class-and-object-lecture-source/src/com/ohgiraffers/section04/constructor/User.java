@@ -53,6 +53,15 @@ public class User {
         /* id, pwd, name의 초기화르르 담당할 생선자 */
     }
 
+    public User(String id) {
+        this.id = id;
+    }
+
+    public User(String id, String pwd) {
+        this.id = id;
+        this.pwd = pwd;
+    }
+
     public User(String id, String pwd, String name) {
         this.id = id;
         this.name = name;

@@ -1,4 +1,4 @@
-package com.ohgiraffers.section04.uses;
+package section;
 
 import java.util.ArrayList;
 import java.util.List;
